@@ -6,6 +6,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
@@ -16,11 +25,24 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85fb8c0d-7d91-45b4-9bae-175e3cdd9747" name="Default" comment="" />
+    <list default="true" id="85fb8c0d-7d91-45b4-9bae-175e3cdd9747" name="Default" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/css/waves.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/waves.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,11 +54,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\master\WebstormProjects\cssplaygrund\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,7 +81,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600516591789</updated>
-      <workItem from="1600516594591" duration="305000" />
+      <workItem from="1600516594591" duration="1022000" />
+      <workItem from="1600600998324" duration="3160000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1600516801060</created>
@@ -55,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600516801060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1600517130312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600517130312</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +126,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
@@ -93,13 +137,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="281" key="FileChooserDialogImpl/0.0.1920.1080/-1280.322.1280.1024@0.0.1920.1080" timestamp="1600516617534" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1600516908150">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1600517585369">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1280.322.1280.1024@0.0.1920.1080" timestamp="1600516908150" />
-    <state x="776" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600516943727">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1280.322.1280.1024@0.0.1920.1080" timestamp="1600517585369" />
+    <state x="776" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600517195289">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="776" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1280.322.1280.1024@0.0.1920.1080" timestamp="1600516943727" />
+    <state x="776" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1280.322.1280.1024@0.0.1920.1080" timestamp="1600517195289" />
+    <state x="647" y="273" width="625" height="534" key="find.popup" timestamp="1600602513312">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="647" y="273" width="625" height="534" key="find.popup/0.0.1920.1080/-1280.322.1280.1024@0.0.1920.1080" timestamp="1600602513312" />
   </component>
 </project>
